@@ -1,2 +1,2 @@
 # hello-world
-此存储库用于联系Gtihub流
+此存储库用于练习Gtihub流
